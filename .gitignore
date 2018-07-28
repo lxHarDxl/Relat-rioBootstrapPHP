@@ -5,4 +5,5 @@
 *.map
 *.js
 *.md
+node_modules
 *.ts
